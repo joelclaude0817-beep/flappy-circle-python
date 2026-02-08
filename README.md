@@ -31,7 +31,7 @@ Flappy Circle is a simple yet addictive game where you control a yellow circle t
 1. Clone the repository:
 ```bash
 git clone https://github.com/joelclaude0817-beep/flappy-circle-python
-cd flappy-circle
+cd flappy-circle-python
 ```
 
 2. Install the required dependencies:
