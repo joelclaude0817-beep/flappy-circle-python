@@ -88,15 +88,6 @@ BLUE = (135, 206, 250) # Background color
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 💡 Future Improvements
-
-- [ ] Add sound effects and background music
-- [ ] Implement high score tracking
-- [ ] Add difficulty levels
-- [ ] Create power-ups and special items
-- [ ] Add animations and particle effects
-- [ ] Mobile touch controls
-
 ## 👨‍💻 Author
 
 Joel - [@joelclaude0817-beep](https://github.com/joelclaude0817-beep)
