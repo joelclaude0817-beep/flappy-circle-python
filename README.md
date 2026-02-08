@@ -71,7 +71,7 @@ FLAP_STRENGTH = -10
 PIPE_WIDTH = 70
 PIPE_GAP = 200
 PIPE_VELOCITY = 3
-PIPE_SPAWN_TIME = 2000 # milliseconds
+PIPE_SPAWN_TIME = 2500 # milliseconds
 
 # Colors
 YELLOW = (255, 215, 0) # Circle color
