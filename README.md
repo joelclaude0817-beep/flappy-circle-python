@@ -1,5 +1,7 @@
 # Flappy Circle
 
+![Image Alt](https://github.com/joelclaude0817-beep/flappy-circle-python/blob/cc003d4823b2d113d5f9dac4f892f8ab1401f2ea/Screenshot_20260208-232826.png)
+
 A fun Python implementation of the classic Flappy Bird game featuring a circular character instead of a bird!
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
