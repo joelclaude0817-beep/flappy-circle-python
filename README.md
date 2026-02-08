@@ -60,8 +60,8 @@ You can easily customize the game by modifying the constants at the top of `flap
 
 ```python
 # Screen dimensions
-SCREEN_WIDTH = 400
-SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 720
+SCREEN_HEIGHT = 1600
 
 # Physics
 GRAVITY = 0.5
